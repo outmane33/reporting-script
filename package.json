@@ -10,10 +10,14 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "https-proxy-agent": "^7.0.6",
     "imap": "^0.8.19",
     "imap-simple": "^5.1.0",
+    "jsdom": "^26.0.0",
     "node-imap": "^0.9.6",
-    "socks-proxy-agent": "^8.0.5"
+    "puppeteer": "^23.11.1",
+    "socks-proxy-agent": "^8.0.5",
+    "uptodate": "^1.0.2"
   }
 }

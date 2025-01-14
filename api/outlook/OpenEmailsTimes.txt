@@ -1,0 +1,8 @@
+Stay_signed=5000
+Write_email=5000
+Move_toInbox=20000
+Next=5000
+BeforeGoToInboxFolder=5000
+BetweenEmails=6000
+Close_Browser=5000
+wait_New_Tab_Before_Closing=5000

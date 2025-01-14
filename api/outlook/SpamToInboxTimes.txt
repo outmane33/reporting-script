@@ -1,0 +1,13 @@
+Stay_signed=5000
+Write_email=5000
+Move_toInbox=20000
+Next=5000
+BeforeGoToSpamFolder=5000
+BetweenEmails=6000
+Close_Browser=5000
+Before_Select_email=50000
+After_Select_email=2000
+Wait_Dialog_Confirm=2000
+Wait_Emails_To_Display=30000
+Click_Select=50000
+Select_All_Emails=10000
